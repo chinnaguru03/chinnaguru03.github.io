@@ -233,9 +233,9 @@ input[type="radio"]{
         padding: 4px 8px;
     }
     .header-content{
-        position: unset;
+        position: relative;
         transition: none;
-        padding-top: 150px;
+        padding-top: 200px;
     }
     .header-content h1{
         font-size: 30px;
